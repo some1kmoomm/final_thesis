@@ -1,0 +1,14 @@
+.tasks-list-form {
+    height: 100%;
+    overflow-y: auto;
+    width: 100%;
+
+    &__task {
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    &__button {
+        margin: 20px 0;
+    }
+}
